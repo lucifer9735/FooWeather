@@ -1,0 +1,22 @@
+{
+    "code": "200",
+    "updateTime": "2022-05-09T12:59+08:00",
+    "fxLink": "http://hfx.link/40d4",
+    "now": {
+        "pubTime": "2022-05-09T12:00+08:00",
+        "aqi": "21",
+        "level": "1",
+        "category": "优",
+        "primary": "NA",
+        "pm10": "21",
+        "pm2p5": "—",
+        "no2": "27",
+        "so2": "4",
+        "co": "0.9",
+        "o3": "25"
+    },
+    "refer": {
+        "sources": ["QWeather", "CNEMC"],
+        "license": ["no commercial use"]
+    }
+}
